@@ -10,7 +10,7 @@
   <p align="center">
     A group of link pages for the Belles Fluers Team
     <br />
-    <a href="https://fleurslinks.pages.dev">View Demo</a>
+    <a href="https://fleurslinks.pages.dev" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/artificialbutter/bellesfluerslinks/issues">Report Bug</a>
     ·
