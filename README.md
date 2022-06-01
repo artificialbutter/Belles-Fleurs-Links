@@ -47,8 +47,7 @@
 
 ![Gif of all the pages](/fleurslinks.gif "Gif of all the pages")
 
-A group of link pages for the Belles Fluers Team
-
+A idea I came up with while watching a Lumiichu stream. 
 
 ### Built With
 
@@ -60,9 +59,13 @@ A group of link pages for the Belles Fluers Team
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get your own copy up and running follow these simple example steps.
+You can host this on anything that can serve a static html file. It does not use any server-side code.
 
+Each folder is designed to be a seperate site.
 
+### Modification
+Changing links should be pretty straight forward, the available classes for the links are `links_first links_second links_third links_fourth links_fifth`, i've left comments to help.
+To update the profile picture, just replace the pfp.jpg file. (It has to be square!) 
 
 <!-- LICENSE -->
 ## License
