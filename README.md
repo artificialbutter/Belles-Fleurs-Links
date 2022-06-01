@@ -61,10 +61,10 @@ A idea I came up with while watching a Lumiichu stream.
 
 You can host this on anything that can serve a static html file. It does not use any server-side code.
 
-Each folder is designed to be a seperate site.
+Each folder is designed to be a separate site.
 
 ### Modification
-Changing links should be pretty straight forward, the available classes for the links are `links_first links_second links_third links_fourth links_fifth`, i've left comments to help.
+Changing links should be pretty straight forward, the available classes for the links are `links_first links_second links_third links_fourth links_fifth`, i've left comments to help. <br>
 To update the profile picture, just replace the pfp.jpg file. (It has to be square!) 
 
 <!-- LICENSE -->
