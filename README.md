@@ -16,7 +16,9 @@
     ·
     <a href="https://github.com/artificialbutter/bellesfluerslinks/issues">Request Feature</a>
   </p>
+  <a href="https://wakatime.com/badge/github/artificialbutter/Belles-Fleurs-Links"><img src="https://wakatime.com/badge/github/artificialbutter/Belles-Fleurs-Links.svg?style=flat" alt="wakatime"></a>
 </div>
+
 
 
 
